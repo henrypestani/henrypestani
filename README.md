@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @henrypestani
 - 👀 I’m interested in Data Science, Machine Leaning & Generative Artificial Intelligence
-- 🌱 I’m currently studying Computer Science 
+- 🌱 I’m currently studying Computer Science @ City U.
 - 💞️ I’m looking to collaborate on interesting Data Science projects!
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
